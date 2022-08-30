@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "510026522401",
+    "project_id": "tradebook-821ba",
+    "storage_bucket": "tradebook-821ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510026522401:android:0088cf3c106bb761f22860",
+        "android_client_info": {
+          "package_name": "com.mohamedwagdy4153.tradebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510026522401-bif0sfme5kagmericbvs8jhrdrhv8voh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mohamedwagdy4153.tradebook",
+            "certificate_hash": "59083a58cc25f31d21b972d34d09d2df5dc050e8"
+          }
+        },
+        {
+          "client_id": "510026522401-mjn0umolv6j2k1d4qqqepvn60466r151.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD-bj8GlVhujoBK3wm9vYeIFXW2chLfTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510026522401-mjn0umolv6j2k1d4qqqepvn60466r151.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "510026522401-gp05mlrhqo8iivuqs60gpr2ofclj73q6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mohamedwagdy4153.tradebookApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510026522401:android:f15c70678133b67af22860",
+        "android_client_info": {
+          "package_name": "com.mohamedwagdy4153.tradebook_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510026522401-26medehttk7s9qu5jjndteiobmtbsbot.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mohamedwagdy4153.tradebook_app",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "510026522401-mjn0umolv6j2k1d4qqqepvn60466r151.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD-bj8GlVhujoBK3wm9vYeIFXW2chLfTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510026522401-mjn0umolv6j2k1d4qqqepvn60466r151.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "510026522401-gp05mlrhqo8iivuqs60gpr2ofclj73q6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mohamedwagdy4153.tradebookApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
