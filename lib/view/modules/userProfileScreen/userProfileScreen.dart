@@ -320,7 +320,7 @@ class _UserProfileScreenState extends State<UserProfileScreen> {
   updateUserProfileData() {
     if (_editing == true) {
       DocumentReference reference =
-          _service.db.collection('userts').doc(auth.currentUser?.uid);
+          _service.db.collection('users').doc(auth.currentUser?.uid);
       reference.update({
         'displayName': _nameController.text,
         'email': _emailController.text,
